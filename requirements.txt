@@ -1,0 +1,8 @@
+streamlit
+whisper
+sounddevice
+numpy
+transformers
+TTS
+torch
+soundfile
